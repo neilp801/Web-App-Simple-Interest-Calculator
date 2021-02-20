@@ -20,5 +20,5 @@ function compute()
 function setslider()
 {
     rate=document.getElementById("rate").value
-    document.getElementById("rangepercent").innerHTML=rate+"%"
+    document.getElementById("rangepercent").innerHTML=rate+" %"
 }
