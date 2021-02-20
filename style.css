@@ -14,8 +14,7 @@ div.maindiv{
     background-color:white;
     width:300px;
     padding:20px;
-    border-style:solid;
-    border-width:25px;
+    border-radius:25px;
     align:center;
-    border-radius: 5px;
+    margin: 0px auto;
 }
