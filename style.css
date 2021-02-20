@@ -17,4 +17,5 @@ div.maindiv{
     border-style:solid;
     border-width:25px;
     align:center;
+    border-radius: 5px;
 }
